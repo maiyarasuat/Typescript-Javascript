@@ -73,3 +73,37 @@ console.log(typeof(value))
 console.log(value)
 */
 
+//6.UNION(combine multiple types)
+
+/* 
+let id:number | string | boolean;
+
+id=5;
+id="Five";
+id=true;
+ */
+
+//7. VOID Type
+
+function show():void{
+
+console.log("Hello All")
+
+}
+
+show()
+
+function shows(x:number, y:number){
+
+    console.log(x+y)
+}
+
+shows(10,100)
+
+function showsAll(x:number, y:number):number{
+
+    return(x+y)
+}
+
+let ans = showsAll(1,11)
+console.log(ans)
