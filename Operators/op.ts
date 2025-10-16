@@ -71,4 +71,4 @@ console.log(!b2) //false
 console.log("*******combination of rel & log operator******")
 
 console.log(20<10 && 5>4) //false
-console.log(20>10 || 10<9)//true
+console.log(20>10 || 10<9);//true
