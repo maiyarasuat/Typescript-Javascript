@@ -9,11 +9,11 @@ do
 }while(i<=5); */
 
 //Print value 10 to 1(descending)
-
+/* 
 let i:number=10
 
 do
 {
     console.log(i)
     i--
-}while(i>=1)
+}while(i>=1) */
