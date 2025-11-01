@@ -28,4 +28,3 @@ let mul = (s:number, t:number):number => s*t
 
 console.log(plus(1,100))
 console.log(mul(1,10))
-

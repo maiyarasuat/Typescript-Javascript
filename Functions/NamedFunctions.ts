@@ -81,8 +81,9 @@ function calculateDiscount(price:number, rate:number=0.2):void
 
 console.log("------------------")
 
-//**********Shreyansh */
-function greet(name:string, title?: string):string 
+/* 
+
+function greet(name:string, title?: string):string //shryansh
 {
     const userTitle = title ?? "User"
     return `Hello, ${userTitle} ${name}!`
@@ -90,3 +91,4 @@ function greet(name:string, title?: string):string
 
 console.log(greet("Alice"))  
 console.log(greet("Bob", "Dr."))
+ */
